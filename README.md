@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Rigqx
-- 👀 I’m interested in Gaming, Programming
+- 👀 I’m interested in Gaming, Programming and Friends
 - 🌱 I’m currently learning Java & JavaScript
-- 💞️ I’m looking to collaborate on all coding projects
-- 📫 How to reach me ...
