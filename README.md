@@ -22,5 +22,9 @@ Welcome to my github profile!
 ```
 
 
+```python
+✨ Have a lovely day <3 ✨
+```
+
 ***
 
