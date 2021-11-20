@@ -18,7 +18,7 @@ Welcome to my github profile!
 
 ```C#
 ✨ I know Java, Python & JavaScript, programming is just magical. ✨
-🌴 I started learning C#! 🌴
+🌴 I started learning C! 🌴
 ```
 
 
