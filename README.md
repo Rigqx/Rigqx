@@ -7,15 +7,13 @@ I am a Danish developer, and I like front-end as much as back-end!
 ```
 
 </div>
-
-
 <div align="center">
  
 #### About me
 
 </h1>
 
-- 🔭 I’m currently working on [VenumMC.dk](https://www.VenumMC.dk)
+- 🔭 I’m currently working on ....
 
 
 ```python
