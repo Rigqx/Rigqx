@@ -3,7 +3,7 @@
  
 ```python
 Welcome to my github profile!
-I am a Danish developer, and I like front-end as much as back-end!
+I am a Danish developer, Im focusing on back-end aswell as front-end!
 ```
 
 </div>
