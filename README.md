@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Rigqx! 👋</h1>
-<div align="center">
+<h1 align="center" style="overflow: hidden">Hi, I'm Rigqx! 👋</h1>
+<div align="center"style="overflow: hidden">
  
 ```python
 Welcome to my github profile!
@@ -7,7 +7,7 @@ I am a Danish developer, and I like front-end as much as back-end!
 ```
 
 </div>
-<div align="center">
+<div align="center" style="overflow: hidden">
  
 #### About me
 
