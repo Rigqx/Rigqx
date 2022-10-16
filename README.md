@@ -13,7 +13,7 @@ I am a Danish developer, Im focusing on back-end aswell as front-end!
 
 </h1>
 
-- 🔭 I’m currently working on ....
+- 🔭 I’m currently not working on anything.
 
 
 ```python
