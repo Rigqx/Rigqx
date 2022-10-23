@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rigqx</h1>
-<h3 align="left">A passionate frontend & backend developer from denmark</h3>
+<h3 align="left">A young passionate frontend & backend developer from denmark</h3>
 
 [![Visitors](https://komarev.com/ghpvc/?username=Rigqx&color=09131B&style=for-the-badge)](https://github.com/DuckoDas)
 [![followers](https://img.shields.io/github/followers/Rigq?color=09131B&style=for-the-badge)](https://github.com/DuckoDas)
