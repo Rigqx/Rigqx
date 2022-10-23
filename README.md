@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Rigqx</h1>
 <h3 align="left">A young danish developer, who's focusing on back-end aswell as front-end!</h3>
 
-[![Visitors](https://komarev.com/ghpvc/?username=Rigqx&color=09131B&style=for-the-badge)](https://github.com/DuckoDas)
-[![followers](https://img.shields.io/github/followers/Rigq?color=09131B&style=for-the-badge)](https://github.com/DuckoDas)
+[![Visitors](https://komarev.com/ghpvc/?username=Rigqx&color=09131B&style=for-the-badge)](https://github.com/Rigqx)
+[![followers](https://img.shields.io/github/followers/Rigqx?color=09131B&style=for-the-badge)](https://github.com/Rigqx)
 
 <details>
   <summary>⚒️ Languages and Tools</summary>
