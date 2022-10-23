@@ -9,7 +9,4 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rigqx&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="rigqx" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rigqx&show_icons=true&locale=en&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="rigqx" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rigqx&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="rigqx" /></p>
-
 </details>
