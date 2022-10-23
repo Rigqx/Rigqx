@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Rigqx</h1>
+<img src="header.png">
 <h2 align="left">A young danish developer, who's focusing on back-end aswell as front-end!</h3>
 
 [![Visitors](https://komarev.com/ghpvc/?username=Rigqx&color=09131B&style=for-the-badge)](https://github.com/Rigqx)
