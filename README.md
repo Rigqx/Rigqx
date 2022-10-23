@@ -1,9 +1,10 @@
 <img src="header.png">
 <h2 align="left">A young danish developer, who's focusing on back-end aswell as front-end!</h3>
 
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/Rigqx)
+
 [![Visitors](https://komarev.com/ghpvc/?username=Rigqx&color=09131B&style=for-the-badge)](https://github.com/Rigqx)
 [![Followers](https://img.shields.io/github/followers/Rigqx?color=09131B&style=for-the-badge)](https://github.com/Rigqx)
-[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Rigqx)
 
 <details>
   <summary><h3>⚒️ Languages and Tools</h3></summary>
