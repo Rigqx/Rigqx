@@ -4,7 +4,9 @@
 [![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/Rigqx)
 
 [![Visitors](https://komarev.com/ghpvc/?username=Rigqx&color=09131B&style=for-the-badge)](https://github.com/Rigqx)
-[![Followers](https://img.shields.io/github/followers/Rigqx?color=09131B&style=for-the-badge)](https://github.com/Rigqx)
+[![Followers](https://img.shields.io/github/followers/Rigqx?color=09131B&style=for-the-badge)](https://github.[com/Rigqx)
+
+(<h3>📖 Portfolio</h3>](https://rigqx.dk)
 
 <details>
   <summary><h3>⚒️ Languages and Tools</h3></summary>
