@@ -1,7 +1,6 @@
 <!-- header image -->
 <img src="header.png" alt="Rigqx Portfolio Header" />
 
-# Hey, I'm Rigqx 👋  
 *Young Danish dev, rocking both frontend and backend.*
 
 ---
